@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153495515930",
+    "project_id": "ektomie-7f1ca",
+    "storage_bucket": "ektomie-7f1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153495515930:android:ff6071cb4bf6a5c50d32a3",
+        "android_client_info": {
+          "package_name": "com.ektomie.ektomie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153495515930-q9akjbd4la446antd0idnggs4kbkd9ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaWGdJY4EzxicK2HWvshrJwj5tFWiWbwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153495515930-q9akjbd4la446antd0idnggs4kbkd9ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
